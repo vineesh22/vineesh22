@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">✨ Interested in AI and ML, Web development.<br>📚 I'm currently mastering DSA.<br>🎯 Actively pursuing opportunities in the software development roles to apply my skills and passion.<br>🎲 Love to collaborate on Real-Time Projects.<br> 📫 Reach me at ..<br>  21cs01041@iitbbs.ac.in</p>
+<p align="left">✨ Interested in AI and ML, Web development.<br>📚 I'm currently mastering DSA.<br>🎯 Actively pursuing opportunities in software development roles to apply my skills and passion.<br>🎲 Love to collaborate on Real-Time Projects.<br> 📫 Reach me at <a href="mailto:21cs01041@iitbbs.ac.in">21cs01041@iitbbs.ac.in</a></p> 
+
 
 ###
 
